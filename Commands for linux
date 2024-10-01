@@ -1,0 +1,5 @@
+sudo apt-get install mono-complete 
+sudo apt install git 
+sudo git clone https://github.com/kassumassu/zipcracker.git 
+cd zipcracker 
+mono zipcracker.exe 
